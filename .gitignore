@@ -1,0 +1,15 @@
+.env
+.cache
+/env
+OAI_CONFIG_LIST
+azure-openai.ipynb
+doc.txt
+example.ipynb
+local_cache/
+main.py
+output.txt
+autogen-qdrant.ipynb
+/docs
+qdrantazure.ipynb
+rag_function.ipynb
+simcse.ipynb
